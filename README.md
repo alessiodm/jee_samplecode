@@ -22,7 +22,7 @@ You can build the code and get it up and running using Maven and JBoss:
 
 You can run `mvn clean package`, take EAR archive and deploy it into the standalone deployment directory of JBoss7.
 
-*** NOTE ***: Run JBoss standalone-full instance:
+*__NOTE__*: Run JBoss standalone-full instance:
 
 ```
 $JBOSS_BIN> ./standalone.sh  --server-config=standalone-full.xml
