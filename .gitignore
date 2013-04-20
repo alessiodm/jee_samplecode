@@ -1,6 +1,13 @@
+.settings/*
+target/*
 *.class
+.project
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Mac garbage
+.DS_Store
+
